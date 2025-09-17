@@ -5,6 +5,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+## Hi, I'm Ali Reza Rashidi 👋
+Data Scientist & BI Engineer with 9+ years of experience in Machine Learning, NLP, and Business Intelligence.  
+- 🚀 Skilled in Python, R, SQL, BigQuery, Spark, Airflow  
+- 📊 Expert in building scalable data pipelines & BI dashboards (Qlik Sense, Power BI, Tableau)  
+- 🤖 Creator of NLP-powered ML models (XGBoost, SHAP, Active Learning)  
+- 🌐 Portfolio: [www.alirezarashidi.com](http://www.alirezarashidi.com) | [LinkedIn](https://linkedin.com/in/rashidialireza)
+
 
 # 📊 Data Analytics:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
