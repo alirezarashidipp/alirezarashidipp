@@ -6,11 +6,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ## Hi, I'm Ali 👋
-Data Scientist & BI Engineer with 9+ years of experience in Machine Learning, NLP, and Business Intelligence.  
+Data Scientist & BI Engineer with 9+ years of experience in Machine Learning, NLP, Business Intelligence and AI/AIAgnet.  
 - 🚀 Skilled in Python, R, SQL, BigQuery, Spark, Airflow  
 - 📊 Expert in building scalable data pipelines & BI dashboards (Qlik Sense, Power BI, Tableau)  
-- 🤖 Creator of NLP-powered ML models (XGBoost, SHAP, Active Learning)  
-- 🌐 Portfolio: [www.alirezarashidi.com](http://www.alirezarashidi.com) | [LinkedIn](https://linkedin.com/in/rashidialireza)
+- 🌐 Website: [www.alirezarashidi.com](http://www.alirezarashidi.com) | [LinkedIn](https://linkedin.com/in/rashidialireza)
 
 
 # 📊 Data Analytics:
