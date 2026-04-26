@@ -7,7 +7,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ## Hi, I'm Ali 👋
 Senior Data Scientist-Gen Al | Al Architect | MLOps | Author 
-- 🌐 Website: [www.alirezarashidi.com](http://www.alirezarashidi.com) | [LinkedIn](https://linkedin.com/in/rashidialireza)
+- 🌐 Website: [www.alirezarashidi.com](http://www.alirezarashidi.com) | [LinkedIn](https://www.linkedin.com/in/ali-reza-rashidi/)
 
 # 📊 Data Analytics:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
