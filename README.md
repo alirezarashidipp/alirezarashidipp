@@ -1,40 +1,36 @@
-# Hi, I'm Ali Reza Rashidi 👋
+<div align="center">
 
-### Senior Data Scientist · Generative AI · AI Architect
+Hi, I'm Ali Reza Rashidi 👋
 
-Building production-grade **AI, ML, RAG, Agentic AI, and Data Systems**.
+Senior Data Scientist · Generative AI · AI Architect
+
+Building production-grade AI, ML, RAG, Agentic AI, and Data Systems.
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-alirezarashidi.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alirezarashidi.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Reza%20Rashidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Gmail](https://img.shields.io/badge/Gmail-alireza.rashidip%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.rashidip@gmail.com)
+
 
 </div>
 
----
-
-## 👨‍💻 About Me
+👨‍💻 About Me
 
 Senior Data Scientist and AI Architect focused on turning complex business problems into scalable, reliable AI systems — from classical Machine Learning to Generative AI, RAG, LLM evaluation, and Agentic workflows.
 
----
-
-## ⚡ Tech Stack
+⚡ Tech Stack
 
 <div align="center">
 
-### AI · Machine Learning · Data
+AI · Machine Learning · Data
 
-[![AI & Data](https://skillicons.dev/icons?i=python,sklearn)](https://skillicons.dev)
 
-### Backend · APIs · Databases
 
-[![Backend](https://skillicons.dev/icons?i=fastapi,postgres,mysql)](https://skillicons.dev)
+Backend · APIs · Databases
 
-### Cloud · DevOps · Engineering
 
-[![Engineering](https://skillicons.dev/icons?i=gcp,docker,git,github,vscode)](https://skillicons.dev)
+
+Cloud · DevOps · Engineering
+
+
 
 </div>
 
@@ -42,29 +38,22 @@ Senior Data Scientist and AI Architect focused on turning complex business probl
 
 <div align="center">
 
-`Python` · `SQL` · `Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `SHAP`  
-`LLMs` · `RAG` · `Agentic AI` · `LLM Evaluation` · `NLP`  
-`FastAPI` · `BigQuery` · `PostgreSQL` · `MySQL` · `Docker` · `Git`
+Python · SQL · Pandas · NumPy · scikit-learn · XGBoost · SHAPLLMs · RAG · Agentic AI · LLM Evaluation · NLPFastAPI · BigQuery · PostgreSQL · MySQL · Docker · Git
 
 </div>
 
----
+🧠 Focus Areas
 
-## 🧠 Focus Areas
-
-**Generative AI** · **AI Architecture** · **Machine Learning** · **RAG** · **Agentic AI** · **LLM Evaluation** · **Data Engineering**
-
----
+Generative AI · AI Architecture · Machine Learning · RAG · Agentic AI · LLM Evaluation · Data Engineering
 
 <div align="center">
 
-### Let's Connect
+Let's Connect
 
-**[alirezarashidi.com](https://www.alirezarashidi.com/)** · **[Email](mailto:alireza.rashidip@gmail.com)** · **[LinkedIn](YOUR_LINKEDIN_URL)**
+alirezarashidi.com · Email · LinkedIn
 
 <br>
 
 <sub>Designing AI systems that move from prototype → production.</sub>
 
 </div>
-'''
