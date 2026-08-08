@@ -1,7 +1,3 @@
-from pathlib import Path
-
-readme = r'''<div align="center">
-
 # Hi, I'm Ali Reza Rashidi 👋
 
 ### Senior Data Scientist · Generative AI · AI Architect
@@ -72,7 +68,3 @@ Senior Data Scientist and AI Architect focused on turning complex business probl
 
 </div>
 '''
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path}")
