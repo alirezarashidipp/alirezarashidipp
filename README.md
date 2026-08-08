@@ -1,22 +1,12 @@
-&lt;div align="center"&gt;
-
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0A66C2&height=140&section=header" width="100%"/&gt;
+<div align="center">
 
 # Hi, I'm Ali Reza Rashidi 👋
 
 ### Senior Data Scientist · Generative AI · AI Architect
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=0A66C2&center=true&vCenter=true&width=720&lines=Senior+Data+Scientist+%C2%B7+Generative+AI+%C2%B7+AI+Architect;Machine+Learning+%C2%B7+RAG+%C2%B7+Agentic+AI+%C2%B7+LLM+Evaluation;Designing+AI+systems+that+move+from+prototype+%E2%86%92+production.)](https://git.io/typing-svg)
-
 Building production-grade **AI, ML, RAG, Agentic AI, and Data Systems**.
 
-&lt;br&gt;
-
-[![Website](https://img.shields.io/badge/Website-alirezarashidi.com-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.alirezarashidi.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Reza%20Rashidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-reza-rashidi/)
-[![Gmail](https://img.shields.io/badge/Gmail-alireza.rashidip%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alireza.rashidip@gmail.com)
-
-&lt;/div&gt;
+</div>
 
 ---
 
@@ -28,65 +18,65 @@ Senior Data Scientist and AI Architect focused on turning complex business probl
 
 ## ⚡ Tech Stack
 
-&lt;div align="center"&gt;
-
 ### AI · Machine Learning · Data
 
-[![AI & Data](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)
-
-### Generative AI · LLM Tooling
-
-[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
-[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/)
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://deepmind.google/technologies/gemini/)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-EB5B28?style=for-the-badge&logoColor=white" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/SHAP-7B2CBF?style=for-the-badge&logoColor=white" alt="SHAP" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/LLM_Evaluation-EC4899?style=for-the-badge&logoColor=white" alt="LLM Evaluation" />
+  <img src="https://img.shields.io/badge/NLP-10B981?style=for-the-badge&logoColor=white" alt="NLP" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+</p>
 
 ### Backend · APIs · Databases
 
-[![Backend](https://skillicons.dev/icons?i=fastapi,postgres,mysql,redis)](https://skillicons.dev)
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
 ### Cloud · DevOps · Engineering
 
-[![Engineering](https://skillicons.dev/icons?i=gcp,docker,git,github,githubactions,linux,vscode)](https://skillicons.dev)
-
-&lt;/div&gt;
-
-&lt;br&gt;
-
-&lt;div align="center"&gt;
-
-`Python` · `SQL` · `Pandas` · `NumPy` · `scikit-learn` · `XGBoost` · `SHAP`  
-`LLMs` · `RAG` · `Agentic AI` · `LLM Evaluation` · `NLP`  
-`FastAPI` · `BigQuery` · `PostgreSQL` · `MySQL` · `Docker` · `Git`
-
-&lt;/div&gt;
+<p>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
 
 ---
 
 ## 🧠 Focus Areas
 
-&lt;div align="center"&gt;
+<div align="center">
 
-`Generative AI` · `AI Architecture` · `Machine Learning` · `RAG` · `Agentic AI` · `LLM Evaluation` · `Data Engineering`
+**Generative AI** · **AI Architecture** · **Machine Learning** · **RAG** · **Agentic AI** · **LLM Evaluation** · **Data Engineering**
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
-
 ### Let's Connect
+
+<div align="center">
 
 **[alirezarashidi.com](https://www.alirezarashidi.com/)** · **[Email](mailto:alireza.rashidip@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/ali-reza-rashidi/)**
 
-&lt;br&gt;
+<br>
 
-&lt;sub&gt;Designing AI systems that move from prototype → production.&lt;/sub&gt;
+Designing AI systems that move from prototype → production.
 
-&lt;/div&gt;
-
-&lt;div align="center"&gt;
-
-&lt;img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:111111&height=120&section=footer" width="100%"/&gt;
-
-&lt;/div&gt;
+</div>
