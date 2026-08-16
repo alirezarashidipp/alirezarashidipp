@@ -17,6 +17,7 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;About Me
 
 > Senior Data Scientist and AI Architect focused on turning complex business problems into scalable, reliable AI systems — from classical Machine Learning to Generative AI, RAG, LLM evaluation, and Agentic workflows.
+> https://www.alirezarashidi.com/
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,50:8B5CF6,100:EC4899&height=3&section=header" width="100%" />
 
